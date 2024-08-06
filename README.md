@@ -1,7 +1,7 @@
 # Javascript
 
 <div align="center">
-  <img src="Source/JavaScript.jpg" alt="Javascript Display">
+  <img src="Source/JavaScript.png" alt="Javascript Display">
 </div>
 
 <hr>
